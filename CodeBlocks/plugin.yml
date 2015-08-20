@@ -1,0 +1,18 @@
+main: net.moc.CodeBlocks.CodeBlocks
+name: CodeBlocks
+version: 2.2.0
+depend: [Spout]
+
+permissions:
+   CodeBlocks.All:
+      default: op
+commands:
+   cb:
+      permission: CodeBlocks.All
+   cbf:
+      permission: CodeBlocks.All
+   cbr:
+      permission: CodeBlocks.All
+   cbb:
+      permission: CodeBlocks.All
+      

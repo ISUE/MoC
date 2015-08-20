@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/bukkit-latest.jar" sourcepath="D:/Workspace/Minecraft/Bukkit-CraftBukkit-1.3.2-R0.1-15-gd9118e4.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://jd.bukkit.org/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/Multiverse-Core-2.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://ci.onarandombox.com/job/Multiverse-Core/doxygen/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/worldguard.jar"/>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/MOCConvo.jar"/>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/Citizens.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://jd.citizensnpcs.com/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/MOCFizziks.jar"/>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/GravitySheep.jar"/>
+	<classpathentry kind="lib" path="D:/[ SVN ]/Minecraft/[JARS]/SpoutPlugin.jar" sourcepath="D:/Workspace/Minecraft/[JARS]/spoutplugin-1.5.2-R0.2-SNAPSHOT-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://jd.spout.org/legacy/plugin/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

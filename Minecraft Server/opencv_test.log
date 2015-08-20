@@ -1,0 +1,58 @@
+Engine: CxTest 0.1
+Execution Date & Time: 11/12/12 13:31:02
+Config File: (null)
+Tested Libraries: cxcore: 2.2.0
+Optimized Low-level Plugin's: 
+=================================================
+-------------------------------------------------
+MSER: Unable to open image mser/puzzle.png
+context: test case = -1, seed = 0000000018451918
+-------------------------------------------------
+calibrate-camera-c: Could not open file with list of test files: ../tests/cv/testdata//cameracalibration/datafiles.txt
+context: test case = -1, seed = f84f800036c00887
+-------------------------------------------------
+calibrate-camera-cpp: Could not open file with list of test files: ../tests/cv/testdata//cameracalibration/datafiles.txt
+context: test case = -1, seed = f84f800036c00887
+-------------------------------------------------
+calibrate-stereo-c: The file ../tests/cv/testdata//stereo/case1/stereo_calib.txt can not be opened or has invalid content
+context: test case = -1, seed = f84f800036c00887
+-------------------------------------------------
+calibrate-stereo-cpp: The file ../tests/cv/testdata//stereo/case1/stereo_calib.txt can not be opened or has invalid content
+context: test case = -1, seed = f84f800036c00887
+-------------------------------------------------
+cascade-detector: validation file is not determined or not correctcontext: test case = -1, seed = 355382220d892fa0
+-------------------------------------------------
+chessboard-detector: Chess board corners not found
+
+Running batch chessboard_list.dat
+../tests/cv/testdata//cameracalibration/chessboard_list.dat can not be readed or is not valid
+fs.isOpened=0, board_list.empty=1, board_list.isSeq=0,board_list.size()=0
+
+Running batch chessboard_list_subpixel.dat
+../tests/cv/testdata//cameracalibration/chessboard_list_subpixel.dat can not be readed or is not valid
+fs.isOpened=0, board_list.empty=1, board_list.isSeq=0,board_list.size()=0
+context: test case = -1, seed = 355382220d892fa0
+-------------------------------------------------
+chessboard-subpixel: Error after findChessboardCorners: 0.614448, after findCornerSubPix: 0.342654
+Error after findChessboardCorners: 0.769564, after findCornerSubPix: 0.404745
+Error after findChessboardCorners: 0.678771, after findCornerSubPix: 0.343811
+Error after findChessboardCorners: 0.559129, after findCornerSubPix: 0.314988
+Error after findChessboardCorners: 0.685647, after findCornerSubPix: 0.364428
+Error after findChessboardCorners: 0.585855, after findCornerSubPix: 0.339954
+Error after findChessboardCorners: 0.763367, after findCornerSubPix: 0.375619
+Error after findChessboardCorners: 0.753780, after findCornerSubPix: 0.436565
+Error after findChessboardCorners: 0.633912, after findCornerSubPix: 0.381468
+Error after findChessboardCorners: 0.867312, after findCornerSubPix: 0.377788
+Error after findChessboardCorners: 0.818731, after findCornerSubPix: 0.368645
+Error after findChessboardCorners: 0.662272, after findCornerSubPix: 0.407831
+Error after findChessboardCorners: 0.707941, after findCornerSubPix: 0.342570
+Error after findChessboardCorners: 0.741913, after findCornerSubPix: 0.374862
+Error after findChessboardCorners: 0.591723, after findCornerSubPix: 0.360555
+Error after findChessboardCorners: 0.662544, after findCornerSubPix: 0.395136
+Error after findChessboardCorners: 0.740745, after findCornerSubPix: 0.389615
+Error after findChessboardCorners: 0.716748, after findCornerSubPix: 0.356340
+Error after findChessboardCorners: 0.721791, after findCornerSubPix: 0.398093
+Error after findChessboardCorners: 0.611178, after findCornerSubPix: 0.331153
+Average error after findCornerSubpix: 0.370341
+-------------------------------------------------
+descriptor-brief: 

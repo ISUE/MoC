@@ -1,0 +1,28 @@
+main: net.moc.MOCKiosk.MOCKiosk
+name: MOCKiosk
+version: 1.0
+depend: [Spout, MOCDBLib]
+softdepend: [MOCDreamCrafter]
+
+permissions:
+    MOCKiosk.admin:
+        description: Full permissions to edit
+        default: op
+    MOCKiosk.use:
+        description: Allows them to interact with Kiosks.
+        default: true
+    MOCKiosk.manage:
+        description: Allows them to create, edit, etc.
+        default: true
+    MOCKiosk.tp:
+        description: Allows them to use teleport feature
+        default: true
+commands:
+   kiosk:
+      description: Use Kiosk GUI
+      permission: MOCKiosk.use
+      usage: |
+          /kiosk edit [id] - Edit Kiosk
+          /kiosk delete [id] - Delete Kiosk
+          /kiosk tp [id] - Teleport to Kiosk
+          /kiosk browse - Browse Kiosks in the area

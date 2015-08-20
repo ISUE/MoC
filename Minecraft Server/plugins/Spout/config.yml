@@ -1,0 +1,30 @@
+ForceClientKickMessage: This server requires Spoutcraft! http://www.spout.org
+MinecraftVersionCheck: true
+ClientCheckTicks: 200
+ChunkDataCache: true
+waypoints:
+  world:
+    Spawn:
+      x: 0
+      y: 64
+      z: 0
+  world_nether:
+    Spawn:
+      x: 0
+      y: 64.5
+      z: 0
+ForceMinecraftVersionCheck: true
+ForceSinglePlayerClient: false
+ForceSinglePlayerClientKickMessage: This server requires Spoutcraft! http://www.spout.org
+AuthenticateSpoutcraft: true
+AuthenticateTicks: 200
+DeadlockMonitor: false
+TeleportSmoothing: true
+AllowEntityLabelCheat: false
+AllowClearWaterCheat: false
+AllowCoordsCheat: false
+AllowSkyCheat: false
+AllowStarsCheat: false
+AllowTimeCheat: false
+AllowVoidFogCheat: false
+AllowWeatherCheat: false

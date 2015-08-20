@@ -1,0 +1,23 @@
+main: net.dmg2.Plotasize.Plotasize
+name: Plotasize
+version: Beta 1.0
+
+permissions:
+    plotasize.self:
+        description: Allows to use plugin.
+        default: op
+
+commands:
+   ps:
+      description: Main command
+      permission: plotasize.self
+      usage: |
+          /ps reload - Reloads settings from file. (Avoid using this if possible)
+          /ps buffer (value) - Sets buffer size between the plots.
+          /ps clearance (value) - Sets clearance between the plots and rest of the world..
+          /ps center (value) - Sets plots' center location. 0 - at the center of the world, 1 - at player's current location.
+          /ps number (value) - Sets number of plots. (Will be rounded up to next complete square - 8 to 9 etc).
+          /ps buffer (value) - Sets buffer size between the plots.
+          /ps xyz (value value value) - Sets plot's width, length, and height.
+          /ps settings - Displays current plugin settings.
+          /ps create - Generates the plots in the world.

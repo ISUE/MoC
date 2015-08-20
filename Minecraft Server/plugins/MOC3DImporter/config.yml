@@ -1,0 +1,380 @@
+Settings:
+  BlocksPerQueue: 1000
+  QueueDelay: 5000
+  StepDONTCHANGE: 0.2
+  Block:
+    TypeId: 1
+    Data: 0
+Colors:
+  1-0:
+    TypeId: 1
+    Data: 0
+    R: 125
+    G: 125
+    B: 125
+  3-0:
+    TypeId: 3
+    Data: 0
+    R: 88
+    G: 60
+    B: 40
+  4-0:
+    TypeId: 4
+    Data: 0
+    R: 167
+    G: 167
+    B: 167
+  5-0:
+    TypeId: 5
+    Data: 0
+    R: 186
+    G: 150
+    B: 97
+  5-1:
+    TypeId: 5
+    Data: 1
+    R: 126
+    G: 93
+    B: 53
+  5-2:
+    TypeId: 5
+    Data: 2
+    R: 212
+    G: 201
+    B: 139
+  5-3:
+    TypeId: 5
+    Data: 3
+    R: 182
+    G: 133
+    B: 99
+  7-0:
+    TypeId: 7
+    Data: 0
+    R: 86
+    G: 86
+    B: 86
+  14-0:
+    TypeId: 14
+    Data: 0
+    R: 115
+    G: 115
+    B: 115
+  15-0:
+    TypeId: 15
+    Data: 0
+    R: 103
+    G: 103
+    B: 103
+  16-0:
+    TypeId: 16
+    Data: 0
+    R: 51
+    G: 51
+    B: 51
+  17-0:
+    TypeId: 17
+    Data: 0
+    R: 66
+    G: 53
+    B: 33
+  17-1:
+    TypeId: 17
+    Data: 1
+    R: 46
+    G: 31
+    B: 13
+  17-2:
+    TypeId: 17
+    Data: 2
+    R: 150
+    G: 147
+    B: 141
+  17-3:
+    TypeId: 17
+    Data: 3
+    R: 38
+    G: 30
+    B: 12
+  19-0:
+    TypeId: 19
+    Data: 0
+    R: 195
+    G: 195
+    B: 60
+  20-0:
+    TypeId: 20
+    Data: 0
+    R: 190
+    G: 242
+    B: 251
+  21-0:
+    TypeId: 21
+    Data: 0
+    R: 50
+    G: 95
+    B: 131
+  22-0:
+    TypeId: 22
+    Data: 0
+    R: 41
+    G: 78
+    B: 138
+  23-0:
+    TypeId: 23
+    Data: 0
+    R: 138
+    G: 138
+    B: 138
+  24-0:
+    TypeId: 24
+    Data: 0
+    R: 143
+    G: 138
+    B: 114
+  24-1:
+    TypeId: 24
+    Data: 1
+    R: 139
+    G: 133
+    B: 104
+  24-2:
+    TypeId: 24
+    Data: 2
+    R: 136
+    G: 131
+    B: 99
+  25-0:
+    TypeId: 25
+    Data: 0
+    R: 153
+    G: 101
+    B: 74
+  35-0:
+    TypeId: 35
+    Data: 0
+    R: 232
+    G: 232
+    B: 232
+  35-1:
+    TypeId: 35
+    Data: 1
+    R: 215
+    G: 119
+    B: 53
+  35-2:
+    TypeId: 35
+    Data: 2
+    R: 175
+    G: 67
+    B: 184
+  35-3:
+    TypeId: 35
+    Data: 3
+    R: 125
+    G: 151
+    B: 206
+  35-4:
+    TypeId: 35
+    Data: 4
+    R: 159
+    G: 149
+    B: 35
+  35-5:
+    TypeId: 35
+    Data: 5
+    R: 72
+    G: 187
+    B: 60
+  35-6:
+    TypeId: 35
+    Data: 6
+    R: 213
+    G: 150
+    B: 167
+  35-7:
+    TypeId: 35
+    Data: 7
+    R: 69
+    G: 69
+    B: 69
+  35-8:
+    TypeId: 35
+    Data: 8
+    R: 166
+    G: 172
+    B: 172
+  35-9:
+    TypeId: 35
+    Data: 9
+    R: 43
+    G: 102
+    B: 126
+  35-10:
+    TypeId: 35
+    Data: 10
+    R: 135
+    G: 69
+    B: 192
+  35-11:
+    TypeId: 35
+    Data: 11
+    R: 49
+    G: 59
+    B: 150
+  35-12:
+    TypeId: 35
+    Data: 12
+    R: 85
+    G: 55
+    B: 34
+  35-13:
+    TypeId: 35
+    Data: 13
+    R: 56
+    G: 75
+    B: 30
+  35-14:
+    TypeId: 35
+    Data: 14
+    R: 161
+    G: 55
+    B: 52
+  35-15:
+    TypeId: 35
+    Data: 15
+    R: 21
+    G: 17
+    B: 17
+  41-0:
+    TypeId: 41
+    Data: 0
+    R: 252
+    G: 238
+    B: 67
+  42-0:
+    TypeId: 42
+    Data: 0
+    R: 218
+    G: 218
+    B: 218
+  43-0:
+    TypeId: 43
+    Data: 0
+    R: 166
+    G: 166
+    B: 166
+  43-1:
+    TypeId: 43
+    Data: 1
+    R: 148
+    G: 143
+    B: 113
+  43-2:
+    TypeId: 43
+    Data: 2
+    R: 100
+    G: 83
+    B: 48
+  43-3:
+    TypeId: 43
+    Data: 3
+    R: 90
+    G: 90
+    B: 90
+  43-4:
+    TypeId: 43
+    Data: 4
+    R: 97
+    G: 54
+    B: 42
+  43-5:
+    TypeId: 43
+    Data: 5
+    R: 76
+    G: 76
+    B: 76
+  43-6:
+    TypeId: 43
+    Data: 6
+    R: 103
+    G: 103
+    B: 103
+  45-0:
+    TypeId: 45
+    Data: 0
+    R: 123
+    G: 68
+    B: 53
+  48-0:
+    TypeId: 48
+    Data: 0
+    R: 57
+    G: 99
+    B: 57
+  49-0:
+    TypeId: 49
+    Data: 0
+    R: 59
+    G: 47
+    B: 85
+  56-0:
+    TypeId: 56
+    Data: 0
+    R: 92
+    G: 233
+    B: 242
+  57-0:
+    TypeId: 57
+    Data: 0
+    R: 133
+    G: 226
+    B: 222
+  60-0:
+    TypeId: 60
+    Data: 0
+    R: 125
+    G: 84
+    B: 50
+  73-0:
+    TypeId: 73
+    Data: 0
+    R: 141
+    G: 3
+    B: 3
+  87-0:
+    TypeId: 87
+    Data: 0
+    R: 164
+    G: 88
+    B: 88
+  88-0:
+    TypeId: 88
+    Data: 0
+    R: 120
+    G: 96
+    B: 81
+  89-0:
+    TypeId: 89
+    Data: 0
+    R: 113
+    G: 110
+    B: 72
+  123-0:
+    TypeId: 123
+    Data: 0
+    R: 118
+    G: 66
+    B: 35
+  129-0:
+    TypeId: 129
+    Data: 0
+    R: 23
+    G: 218
+    B: 97
+  133-0:
+    TypeId: 133
+    Data: 0
+    R: 60
+    G: 195
+    B: 92

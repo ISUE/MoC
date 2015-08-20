@@ -1,0 +1,26 @@
+1043:CodeBlocks.[CB] Back
+1026:CodeBlocks.[CB] Turn Left
+1025:CodeBlocks.[CB] Ascend
+1036:CodeBlocks.[CB] Case
+1045:CodeBlocks.[CB] Left
+1048:CodeBlocks.[CB] Dig
+1033:CodeBlocks.[CB] If
+1038:CodeBlocks.[CB] Switch
+1037:CodeBlocks.[CB] For
+1042:CodeBlocks.[CB] Down
+1024:CodeBlocks.[CB] Forward
+1040:CodeBlocks.[CB] If True
+1031:CodeBlocks.[CB] Function
+1041:CodeBlocks.[CB] Turn Right
+1028:CodeBlocks.[CB] Right
+1039:CodeBlocks.[CB] If False
+1047:CodeBlocks.[CB] Call Function
+1032:CodeBlocks.[CB] Program
+1046:CodeBlocks.[CB] Destroy
+1034:CodeBlocks.[CB] Place
+1029:CodeBlocks.[CB] Up
+1030:CodeBlocks.[CB] Build
+1035:CodeBlocks.[CB] Robot
+1027:CodeBlocks.cb_Forward
+1049:CodeBlocks.[CB] Tool
+1044:CodeBlocks.[CB] While

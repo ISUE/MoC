@@ -1,0 +1,37 @@
+name: MOCDreamCrafter
+authors: [ChrisRoss, cwingrav, ChrisZorn]
+description: A means of creating instanced worlds so players can create as an admin and share these creations with others.
+main: moc.DreamCrafter.MOCDreamCrafter
+version: 0.5
+depend: [PermissionsEx, Multiverse-Core, WorldGuard, Spout]
+softdepend: [Citizens, Vault]
+database: false
+
+permissions:
+    moc.DreamCrafter.Admin:
+        description: Admin Inst Powers.
+        default: op
+    moc.DreamCrafter.Create:
+        description: Ability to create instances that later can be authored.
+        default: op
+    moc.DreamCrafter.Author:
+        description: Ability to author instances.
+        default: true
+    moc.DreamCrafter.Play:
+        description: Ability to play instances.
+        default: true
+
+commands:
+    dc:
+        description: Controls the dreams.
+        usage: |
+            /dc - shows menu
+            /dc properties - shows world properties menu when building
+            /dc blacklist - shows block blacklist when building
+            /dc create [player] [worldname] - creates a new build world for a player
+            /dc build {worldname} - enters the given world to build in it
+            /dc dream {worldname} - enters the world as an instance to play
+            /dc import [existing worldname] [new worldname] - creates a build world using an existing world
+            /dc delete [worldname] - deletes a world
+            /dc leave - leave the build or dream world
+            /dc end - set world endpoint

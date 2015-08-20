@@ -1,0 +1,11 @@
+Settings:
+  Accident:
+    Harvest:
+      Damage: 20-20
+      Punt: 10-1
+    Split:
+      Damage: 30-30
+      Punt: 20-2
+    Combine:
+      Damage: 30-30
+      Punt: 20-2

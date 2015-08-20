@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/Minecraft Server/plugins/MOCDreamCrafter.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/MOCDreamCrafterV2/Export.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/MOCDreamCrafterV2/jar_manifest.xml" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/MOCDreamCrafterV2/plugin.yml"/>
+        <javaElement handleIdentifier="=MOCDreamCrafterV2/src"/>
+    </selectedElements>
+</jardesc>

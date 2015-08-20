@@ -1,0 +1,11 @@
+settings:
+  defaultIsOn: true
+  defaultAcceleration:
+    X: 0
+    Y: 0
+    Z: 0
+  defaultUsesPower: true
+  defaultVelocity:
+    Y: 0
+    Z: 0
+    X: 0

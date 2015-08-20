@@ -1,0 +1,6 @@
+2.2.0
+	- Added is / is not option to True/False branches. Example: while not air front - would execute while branch as long as there is not air block in front.
+	- Added function arguments (three), function variables (ten), return value (one).
+	- Added math blocks to perform operations with variables.
+	- Modified signs to include variables.
+	- Logic commands should execute much faster now. Speed value of robot mainly controls commands like move, dig, not if, math etc.

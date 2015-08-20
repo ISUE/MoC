@@ -1,0 +1,1 @@
+java -Xincgc -Xmx1G -jar craftbukkit-1.4.6-R0.3.jar

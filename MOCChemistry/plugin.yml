@@ -1,0 +1,15 @@
+main: net.moc.MOCChemistry.MOCChemistry
+name: MOCChemistry
+version: 1.3
+depend: [Spout]
+
+permissions:
+    MOCChemistry.use:
+        description: General use.
+        default: true
+commands:
+   mc:
+      description: Use MOCChemistry
+      permission: MOCChemistry.use
+      usage: |
+          /mc

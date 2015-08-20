@@ -1,0 +1,149 @@
+Engine: CxTest 0.1
+Execution Date & Time: 11/12/12 13:31:02
+Config File: (null)
+Tested Libraries: cxcore: 2.2.0
+Optimized Low-level Plugin's: 
+=================================================
+-------------------------------------------------
+[0000000018451918]
+MSER: 	FAIL(No test data)
+>>>
+Unable to open image mser/puzzle.png
+context: test case = -1, seed = 0000000018451918
+
+-------------------------------------------------
+[0000000018451918]
+_3d-cvt-homogen: 	Ok
+-------------------------------------------------
+[faab3d223dff7c26]
+_3d-epilines: 	Ok
+-------------------------------------------------
+[fea40580bf34095d]
+_3d-fundam: 	Ok
+-------------------------------------------------
+[019153d34a2d1968]
+_3d-rodrigues: 	Ok
+-------------------------------------------------
+[37d06ce0ea44ff50]
+_3d-rodrigues-badarg: 	Ok
+-------------------------------------------------
+[37d06ce0ea44ff50]
+accum-acc: 	Ok
+-------------------------------------------------
+[59b3ad01522a136a]
+accum-mulacc: 	Ok
+-------------------------------------------------
+[3422078f420ea223]
+accum-runavg: 	Ok
+-------------------------------------------------
+[19023f096c0550ba]
+accum-squareacc: 	Ok
+-------------------------------------------------
+[1adf2732a76d04ff]
+algorithm-estimateAffine3D: 	Ok
+-------------------------------------------------
+[1adf2732a76d04ff]
+calibMatrixValues-c: 	Ok
+-------------------------------------------------
+[f9868b3eb8421369]
+calibMatrixValues-cpp: 	Ok
+-------------------------------------------------
+[f84f800036c00887]
+calibrate-camera-c: 	FAIL(No test data)
+>>>
+Could not open file with list of test files: ../tests/cv/testdata//cameracalibration/datafiles.txt
+context: test case = -1, seed = f84f800036c00887
+
+-------------------------------------------------
+[f84f800036c00887]
+calibrate-camera-c-badarg: 	Ok
+-------------------------------------------------
+[f84f800036c00887]
+calibrate-camera-cpp: 	FAIL(No test data)
+>>>
+Could not open file with list of test files: ../tests/cv/testdata//cameracalibration/datafiles.txt
+context: test case = -1, seed = f84f800036c00887
+
+-------------------------------------------------
+[f84f800036c00887]
+calibrate-stereo-c: 	FAIL(No test data)
+>>>
+The file ../tests/cv/testdata//stereo/case1/stereo_calib.txt can not be opened or has invalid content
+context: test case = -1, seed = f84f800036c00887
+
+-------------------------------------------------
+[f84f800036c00887]
+calibrate-stereo-cpp: 	FAIL(No test data)
+>>>
+The file ../tests/cv/testdata//stereo/case1/stereo_calib.txt can not be opened or has invalid content
+context: test case = -1, seed = f84f800036c00887
+
+-------------------------------------------------
+[f84f800036c00887]
+canny: 	Ok
+-------------------------------------------------
+[355382220d892fa0]
+cascade-detector: 	FAIL(Invalid test data)
+>>>
+validation file is not determined or not correctcontext: test case = -1, seed = 355382220d892fa0
+
+-------------------------------------------------
+[355382220d892fa0]
+chessboard-detector: 	FAIL(Bad accuracy)
+>>>
+Chess board corners not found
+
+Running batch chessboard_list.dat
+../tests/cv/testdata//cameracalibration/chessboard_list.dat can not be readed or is not valid
+fs.isOpened=0, board_list.empty=1, board_list.isSeq=0,board_list.size()=0
+
+Running batch chessboard_list_subpixel.dat
+../tests/cv/testdata//cameracalibration/chessboard_list_subpixel.dat can not be readed or is not valid
+fs.isOpened=0, board_list.empty=1, board_list.isSeq=0,board_list.size()=0
+context: test case = -1, seed = 355382220d892fa0
+
+-------------------------------------------------
+[355382220d892fa0]
+chessboard-detector-badarg: 	Ok
+-------------------------------------------------
+[355382220d892fa0]
+chessboard-subpixel: 	Ok
+-------------------------------------------------
+[7487ee9d47b976b3]
+color-bayer: 	Ok
+-------------------------------------------------
+[40e6d44de0d1749c]
+color-gray: 	Ok
+-------------------------------------------------
+[0f3a395fe56ab23e]
+color-hls: 	Ok
+-------------------------------------------------
+[062e95c784fba15c]
+color-hsv: 	Ok
+-------------------------------------------------
+[21dab4eb082ce3b9]
+color-lab: 	Ok
+-------------------------------------------------
+[1912d964eb7557d1]
+color-luv: 	Ok
+-------------------------------------------------
+[47baca844d066cdf]
+color-rgb: 	Ok
+-------------------------------------------------
+[279928c7a2553671]
+color-xyz: 	Ok
+-------------------------------------------------
+[3bb7ff89921126bc]
+color-ycc: 	Ok
+-------------------------------------------------
+[22ffac9b3f974030]
+composeRT: 	Ok
+-------------------------------------------------
+[22ffac9b3f974030]
+contour-approx: 	Ok
+-------------------------------------------------
+[2efdec35fe0238fe]
+contour-find: 	Ok
+-------------------------------------------------
+[52d84fa0d1aecac8]
+descriptor-brief: 

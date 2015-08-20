@@ -1,0 +1,97 @@
+1110:CodeBlocks.[CB] While End
+1070:MOCChemistry.Lithium
+1058:CodeBlocks.cb_PosBranch
+1112:CodeBlocks.[CB] Back
+1080:CodeBlocks.[CB] Ascend
+1025:SpoutMaterials.Notch crackers
+1065:MOCChemistry.Beryllium
+1101:CodeBlocks.[CB] Case
+1027:SpoutMaterials.Wooden Dagger
+1103:CodeBlocks.[CB] For End
+1040:CodeBlocks.cb_Sense
+1108:CodeBlocks.[CB] Switch
+1087:CodeBlocks.[CB] Program Counter
+1026:SpoutMaterials.Obsidian sword
+1106:CodeBlocks.[CB] If True
+1088:CodeBlocks.[CB] Function
+1063:MOCChemistry.Energy Harvester
+1056:CodeBlocks.cb_Function8
+1055:CodeBlocks.cb_Function7
+1054:CodeBlocks.cb_Function6
+1053:CodeBlocks.cb_Function5
+1074:CodeBlocks.[CB] Backward
+1083:CodeBlocks.[CB] Destroy
+1042:CodeBlocks.cb_TurnLeft
+1057:CodeBlocks.cb_Function9
+1092:CodeBlocks.[CB] Build
+1052:CodeBlocks.cb_Function4
+1109:CodeBlocks.[CB] While
+1051:CodeBlocks.cb_Function3
+1050:CodeBlocks.cb_Function2
+1049:CodeBlocks.cb_Function1
+1029:SpoutMaterials.Iron Dagger
+1041:CodeBlocks.cb_ShootArrow
+1096:CodeBlocks.cb_Function
+1097:CodeBlocks.cb_Ascend
+1084:CodeBlocks.[CB] Pickup
+1077:CodeBlocks.[CB] Dig In Front
+1117:CodeBlocks.[CB] Dig
+1104:CodeBlocks.[CB] If
+1034:CodeBlocks.cb_Variable
+1091:CodeBlocks.[CB] Descend
+1072:MOCChemistry.Oxygen
+1024:SpoutMaterials.Lightning Wand
+1073:CodeBlocks.[CB] Forward
+1044:CodeBlocks.cb_Destroy
+1032:SpoutMaterials.LavaStone
+1045:CodeBlocks.cb_PickupBlock
+1076:CodeBlocks.[CB] Dig Below
+1082:CodeBlocks.[CB] Turn Right
+1037:CodeBlocks.cb_DigBelow
+1120:CodeBlocks.[CB] [space]
+1061:MOCChemistry.ChemistryTable
+1107:CodeBlocks.[CB] Program
+1075:CodeBlocks.[CB] Defuse
+1046:CodeBlocks.cb_PlaceBlock
+1035:CodeBlocks.cb_Forward
+1031:SpoutMaterials.Gold Dagger
+1039:CodeBlocks.cb_Harvest
+1081:CodeBlocks.[CB] Turn Left
+1043:CodeBlocks.cb_TurnRight
+1068:MOCChemistry.Helium
+1098:CodeBlocks.cb_Descend
+1086:CodeBlocks.[CB] Start
+1111:CodeBlocks.[CB] Pick Up
+1038:CodeBlocks.cb_DigInFront
+1102:CodeBlocks.[CB] For
+1059:CodeBlocks.cb_NegBranch
+1089:CodeBlocks.[CB] Positive Branch
+1066:MOCChemistry.Boron
+1071:MOCChemistry.Nitrogen
+1119:CodeBlocks.[CB] Call Function
+1048:CodeBlocks.cb_ProgramCounter
+1116:CodeBlocks.[CB] Up
+1095:CodeBlocks.cb_PickUpBlock
+1062:MOCChemistry.Chemistry Table
+1118:CodeBlocks.[CB] Tool
+1090:CodeBlocks.[CB] Negative Branch
+1094:CodeBlocks.cb_Backward
+1078:CodeBlocks.[CB] Harvest
+1060:MOCKiosk.Kiosk
+1079:CodeBlocks.[CB] Sense
+1036:CodeBlocks.cb_Defuse
+1114:CodeBlocks.[CB] Left
+1064:MOCChemistry.Energy
+1030:SpoutMaterials.Diamond Dagger
+1099:CodeBlocks.cb_Build
+1113:CodeBlocks.[CB] Down
+1105:CodeBlocks.[CB] If False
+1115:CodeBlocks.[CB] Right
+1067:MOCChemistry.Carbon
+1028:SpoutMaterials.Stone Dagger
+1047:CodeBlocks.cb_Start
+1085:CodeBlocks.[CB] Place
+1069:MOCChemistry.Hydrogen
+1033:CodeBlocks.VariableBlock
+1093:CodeBlocks.[CB] Robot
+1100:CodeBlocks.cb_Robot

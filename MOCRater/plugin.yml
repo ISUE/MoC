@@ -1,0 +1,31 @@
+main: net.moc.MOCRater.MOCRater
+name: MOCRater
+version: 1.1
+depend: [Spout, MOCDBLib, WorldGuard, WorldEdit]
+
+permissions:
+    MOCRater.rate:
+        description: Allows user to submit ratings.
+        default: op
+    MOCRater.ratetoggle:
+        description: Allows user to toggle display of the rating in the world.
+        default: op
+    MOCRater.patternsaddedit:
+        description: Allows user to add/edit patterns.
+        default: op
+    MOCRater.teleport:
+        description: Allows user to use teleport function.
+        default: op
+
+commands:
+   rate:
+      description: Submit ratings
+      permission: MOCRater.rate
+      usage: |
+          /rate - Submit a rating for an area
+          /rate browse - Browse ratings for the current world
+   patterns:
+      description: Browse patterns
+      permission: MOCRater.rate
+      usage: |
+          /patterns - Browse/Add/Edit patterns

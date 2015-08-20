@@ -1,0 +1,13 @@
+main: net.moc.MOCGenerator.MOCGenerator
+name: MOCGenerator
+version: 1.0
+
+permissions:
+   MOCGenerator.All:
+      description: Gives full access
+      default: op
+commands:
+   mocg:
+      description: Default
+      permission: MOCGenerator.All
+      usage: /mocg

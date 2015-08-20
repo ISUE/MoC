@@ -1,0 +1,15 @@
+main: net.dmg2.DynamicMOTD.DynamicMOTD
+name: DMOTD
+version: beta 2.0
+
+permissions:
+    dynamicmotd.self:
+        description: Allows to use plugin.
+        default: op
+
+commands:
+   dmotd:
+      description: Main command
+      permission: imageimport.self
+      usage: |
+          /dmotd (MOTD Text) - set MOTD Text

@@ -1,0 +1,22 @@
+name: MOCDreamCatcher
+authors: [ChrisRoss, cwingrav, ChrisZorn, raidendex]
+description: A means of creating instanced worlds so players can create as an admin and share these creations with others.
+main: net.moc.MOCDreamCatcher.MOCDreamCatcher
+version: 1.0
+depend: [PermissionsEx, Multiverse-Core, WorldGuard]
+softdepend: [Spout, Citizens, MOCConvo, MOCFizziks, GravitySheep]
+database: false
+
+permissions:
+    DreamCatcher.Create:
+        description: Ability to create instances that later can be authored.
+        default: true
+    DreamCatcher.Play:
+        description: Ability to play instances.
+        default: true
+    DreamCatcher.Admin:
+        default: op
+
+commands:
+    dc:
+        permission: DreamCatcher.Play

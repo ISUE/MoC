@@ -1,0 +1,33 @@
+main: moc.MOCFizziks.MOCFizziks
+name: MOCFizziks
+author: cwingrav,raidendex
+version: beta 4.1
+
+permissions:
+    MOCFizziks.use:
+        description: Allow the player to use
+        default: op
+    MOCFizziks.configure:
+        description: Allow the player to configure and change MOCFizziks.
+        default: op
+
+commands:
+    mf:
+        description: Adds physics like behavior zones.
+        permissions: MOCFizziks.use
+        usage: |
+            /mf select (ex/ey/ez)- toggles select mode on/off. exe/ey/ez will extend selection in that direction. Y is vertical.
+            /mf listpoints - list your current selection
+            /mf create [name] - creates a new region using the selected points
+            /mf update [name] - update the bounds of the region to the selected bounds
+            /mf remove [name] - removes the region
+            /mf setvel [name] [x] [y] [z] - sets the velocity for the region
+            /mf addvel [name] [x] [y] [z] - adds to the region's velocity
+            /mf setacc [name] [x] [y] [z] - sets the acceleration for the region
+            /mf addacc [name] [x] [y] [z] - adds to the region's acceleration
+            /mf toggle [name] - toggles region on/off
+            /mf togglepower [name] - toggles use of power switches for the region on/off
+            /mf addswitch/removeswitch/clearswitch/listswitch - power switches
+            /mf addsign/removesign/clearsign/listsign - sign operations
+            /mf info - Prints out info about the currently selected region
+            /mf list - lists regions

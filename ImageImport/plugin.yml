@@ -1,0 +1,15 @@
+main: net.dmg2.ImageImport.ImageImport
+name: ImageImport
+version: beta 2.0
+
+permissions:
+    imageimport.use:
+        description: Allows to use the plugin.
+        default: op
+
+commands:
+   ii:
+      description: Main command
+      permission: imageimport.use
+      usage: |
+          /ii (image file name) [height]- imports selected image file

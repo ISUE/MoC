@@ -1,0 +1,28 @@
+Id: 0 name:PROTECTION_ENVIRONMENTAL maxlevel:4
+Id: 1 name:PROTECTION_FIRE maxlevel:4
+Id: 2 name:PROTECTION_FALL maxlevel:4
+Id: 3 name:PROTECTION_EXPLOSIONS maxlevel:4
+Id: 4 name:PROTECTION_PROJECTILE maxlevel:4
+Id: 5 name:OXYGEN maxlevel:3
+Id: 6 name:WATER_WORKER maxlevel:1
+
+Id: 16 name:DAMAGE_ALL maxlevel:5
+Id: 17 name:DAMAGE_UNDEAD maxlevel:5
+Id: 18 name:DAMAGE_ARTHROPODS maxlevel:5
+Id: 19 name:KNOCKBACK maxlevel:2
+Id: 20 name:FIRE_ASPECT maxlevel:2
+Id: 21 name:LOOT_BONUS_MOBS maxlevel:3
+
+Id: 32 name:DIG_SPEED maxlevel:5
+Id: 33 name:SILK_TOUCH maxlevel:1
+Id: 34 name:DURABILITY maxlevel:3
+Id: 35 name:LOOT_BONUS_BLOCKS maxlevel:3
+
+Id: 48 name:ARROW_DAMAGE maxlevel:5
+Id: 49 name:ARROW_KNOCKBACK maxlevel:2
+Id: 50 name:ARROW_FIRE maxlevel:1
+Id: 51 name:ARROW_INFINITE maxlevel:1
+
+Id: 253 name:Spout Enchantment 253 maxlevel:1001
+Id: 254 name:Spout Enchantment 254 maxlevel:1001
+Id: 255 name:Spout Enchantment 255 maxlevel:1001

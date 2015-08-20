@@ -1,0 +1,14 @@
+main: net.dmg2.OP2C.OP2C
+name: OP2C
+version: Beta 1.0
+
+permissions:
+    OP2C.self:
+        description: Allows to use plugin.
+        default: true
+
+commands:
+   portal:
+      description: Main command
+      permission: OP2C.self
+      usage: /portal

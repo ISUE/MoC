@@ -1,0 +1,119 @@
+2013-01-29 01:52:13 [INFO] Starting minecraft server version 1.4.7
+2013-01-29 01:52:13 [INFO] Loading properties
+2013-01-29 01:52:13 [WARNING] server.properties does not exist
+2013-01-29 01:52:13 [INFO] Generating new properties file
+2013-01-29 01:52:13 [INFO] Default game type: SURVIVAL
+2013-01-29 01:52:13 [INFO] Generating keypair
+2013-01-29 01:52:13 [INFO] Starting Minecraft server on *:25565
+2013-01-29 01:52:13 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.7-R0.1-b2602jnks (MC: 1.4.7) (Implementing API version 1.4.7-R0.1)
+2013-01-29 01:52:13 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2013-01-29 01:52:13 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2013-01-29 01:52:13 [INFO] Preparing level "world"
+2013-01-29 01:52:13 [INFO] Unable to find spawn biome
+2013-01-29 01:52:14 [INFO] ----- Bukkit Auto Updater -----
+2013-01-29 01:52:14 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-01-29 01:52:14 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-01-29 01:52:14 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-01-29 01:52:14 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-01-29 01:52:14 [INFO] ----- ------------------- -----
+2013-01-29 01:52:14 [INFO] Preparing start region for level 0 (Seed: 2589225450706541493)
+2013-01-29 01:52:15 [INFO] Preparing spawn area: 24%
+2013-01-29 01:52:16 [INFO] Preparing spawn area: 56%
+2013-01-29 01:52:17 [INFO] Preparing spawn area: 89%
+2013-01-29 01:52:17 [INFO] Preparing start region for level 1 (Seed: 2589225450706541493)
+2013-01-29 01:52:18 [INFO] Preparing spawn area: 28%
+2013-01-29 01:52:19 [INFO] Preparing spawn area: 65%
+2013-01-29 01:52:20 [INFO] Preparing start region for level 2 (Seed: 2589225450706541493)
+2013-01-29 01:52:20 [INFO] Preparing spawn area: 24%
+2013-01-29 01:52:21 [INFO] Done (7.779s)! For help, type "help" or "?"
+2013-01-29 01:52:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-29 01:53:29 [INFO] CONSOLE: Stopping the server..[m
+2013-01-29 01:53:29 [INFO] Stopping server
+2013-01-29 01:53:29 [INFO] Saving players
+2013-01-29 01:53:29 [INFO] Saving worlds
+2013-01-29 01:53:29 [WARNING] DSCT: socket closed
+2013-01-29 01:53:29 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-29 01:53:29 [INFO] Closing listening thread
+2013-01-29 01:53:29 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-01-29 01:53:29 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-01-29 01:53:29 [INFO] Stopping server
+2013-01-29 01:53:29 [INFO] Saving players
+2013-01-29 01:53:32 [INFO] Starting minecraft server version 1.4.7
+2013-01-29 01:53:32 [INFO] Loading properties
+2013-01-29 01:53:32 [INFO] Default game type: SURVIVAL
+2013-01-29 01:53:32 [INFO] Generating keypair
+2013-01-29 01:53:32 [INFO] Starting Minecraft server on *:25565
+2013-01-29 01:53:32 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.7-R0.1-b2602jnks (MC: 1.4.7) (Implementing API version 1.4.7-R0.1)
+2013-01-29 01:53:32 [INFO] [RegenBlock] Loading RegenBlock vBeta 4.6
+2013-01-29 01:53:32 [INFO] Preparing level "world"
+2013-01-29 01:53:32 [INFO] Preparing start region for level 0 (Seed: 2589225450706541493)
+2013-01-29 01:53:33 [INFO] ----- Bukkit Auto Updater -----
+2013-01-29 01:53:33 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-01-29 01:53:33 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-01-29 01:53:33 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-01-29 01:53:33 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-01-29 01:53:33 [INFO] ----- ------------------- -----
+2013-01-29 01:53:33 [INFO] Preparing start region for level 1 (Seed: 2589225450706541493)
+2013-01-29 01:53:33 [INFO] Preparing start region for level 2 (Seed: 2589225450706541493)
+2013-01-29 01:53:33 [INFO] Preparing spawn area: 24%
+2013-01-29 01:53:33 [INFO] [RegenBlock] Enabling RegenBlock vBeta 4.6
+2013-01-29 01:53:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-01-29 01:53:33 [INFO] Done (1.218s)! For help, type "help" or "?"
+2013-01-29 01:54:33 [INFO] CONSOLE: Stopping the server..[m
+2013-01-29 01:54:33 [INFO] Stopping server
+2013-01-29 01:54:33 [INFO] [RegenBlock] Disabling RegenBlock vBeta 4.6
+2013-01-29 01:54:33 [INFO] Saving players
+2013-01-29 01:54:33 [INFO] Saving worlds
+2013-01-29 01:54:33 [WARNING] DSCT: socket closed
+2013-01-29 01:54:33 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-29 01:54:33 [INFO] Closing listening thread
+2013-01-29 01:54:34 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-01-29 01:54:34 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-01-29 01:54:46 [INFO] Starting minecraft server version 1.4.7
+2013-01-29 01:54:46 [INFO] Loading properties
+2013-01-29 01:54:46 [INFO] Default game type: SURVIVAL
+2013-01-29 01:54:46 [INFO] Generating keypair
+2013-01-29 01:54:46 [INFO] Starting Minecraft server on *:25565
+2013-01-29 01:54:46 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.7-R0.1-b2602jnks (MC: 1.4.7) (Implementing API version 1.4.7-R0.1)
+2013-01-29 01:54:46 [INFO] [RegenBlock] Loading RegenBlock vBeta 4.6
+2013-01-29 01:54:46 [INFO] Preparing level "world"
+2013-01-29 01:54:46 [INFO] Preparing start region for level 0 (Seed: 2589225450706541493)
+2013-01-29 01:54:47 [INFO] Preparing start region for level 1 (Seed: 2589225450706541493)
+2013-01-29 01:54:47 [INFO] ----- Bukkit Auto Updater -----
+2013-01-29 01:54:47 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-01-29 01:54:47 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-01-29 01:54:47 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-01-29 01:54:47 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-01-29 01:54:47 [INFO] ----- ------------------- -----
+2013-01-29 01:54:47 [INFO] Preparing start region for level 2 (Seed: 2589225450706541493)
+2013-01-29 01:54:47 [INFO] [RegenBlock] Enabling RegenBlock vBeta 4.6
+2013-01-29 01:54:47 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-01-29 01:54:47 [INFO] Done (0.980s)! For help, type "help" or "?"
+2013-01-29 01:55:49 [INFO] raidendex[/127.0.0.1:3154] logged in with entity id 328 at ([world] -25.5, 65.62000000476837, -541.5)
+2013-01-29 01:55:54 [INFO] raidendex issued server command: /rb
+2013-01-29 01:56:00 [INFO] CONSOLE: Opped raidendex[m
+2013-01-29 01:56:11 [INFO] raidendex issued server command: /cb
+2013-01-29 01:56:15 [INFO] raidendex issued server command: /rb
+2013-01-29 01:56:20 [INFO] raidendex issued server command: /rb select
+2013-01-29 01:56:28 [INFO] Connection reset
+2013-01-29 01:56:28 [INFO] raidendex lost connection: disconnect.endOfStream
+2013-01-29 02:13:27 [INFO] Starting minecraft server version 1.4.7
+2013-01-29 02:13:27 [INFO] Loading properties
+2013-01-29 02:13:27 [INFO] Default game type: SURVIVAL
+2013-01-29 02:13:27 [INFO] Generating keypair
+2013-01-29 02:13:27 [INFO] Starting Minecraft server on *:25565
+2013-01-29 02:13:27 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.7-R0.1-b2602jnks (MC: 1.4.7) (Implementing API version 1.4.7-R0.1)
+2013-01-29 02:13:27 [INFO] [RegenBlock] Loading RegenBlock vBeta 4.6
+2013-01-29 02:13:27 [INFO] Preparing level "world"
+2013-01-29 02:13:27 [INFO] Preparing start region for level 0 (Seed: 2589225450706541493)
+2013-01-29 02:13:27 [INFO] Preparing start region for level 1 (Seed: 2589225450706541493)
+2013-01-29 02:13:28 [INFO] ----- Bukkit Auto Updater -----
+2013-01-29 02:13:28 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-01-29 02:13:28 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-01-29 02:13:28 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-01-29 02:13:28 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-01-29 02:13:28 [INFO] ----- ------------------- -----
+2013-01-29 02:13:28 [INFO] Preparing start region for level 2 (Seed: 2589225450706541493)
+2013-01-29 02:13:28 [INFO] [RegenBlock] Enabling RegenBlock vBeta 4.6
+2013-01-29 02:13:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-01-29 02:13:28 [INFO] Done (0.985s)! For help, type "help" or "?"

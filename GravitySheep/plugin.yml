@@ -1,0 +1,29 @@
+main: net.dmg2.GravitySheep.GravitySheep
+name: GravitySheep
+author: raidendex
+version: beta 3.2
+
+permissions:
+    GravitySheep.use:
+        description: Allow the player to use
+        default: op
+    GravitySheep.configure:
+        description: Allow the player to configure and change GravitySheep.
+        default: op
+
+commands:
+    gs:
+        description: Adds physics like behavior zones.
+        permissions: GravitySheep.use
+        usage: |
+            /gs select - toggles select mode on/off
+            /gs listpoint - list your current selection
+            /gs create [name] - creates a new region using the selected points
+            /gs update [name] - update the bounds of the region to the selected bounds
+            /gs remove [name] - removes the region
+            /gs setvel [name] [x] [y] [z] - sets the velocity for the region
+            /gs addvel [name] [x] [y] [z] - adds to the region's velocity
+            /gs addswitch/removeswitch/clearswitch/listswitch [name] - power switches
+            /gs addsign/removesign/clearsign/listsign [name] - sign operations
+            /gs entitytype [name] [type] - sets entity type for the region
+            /gs list - lists regions

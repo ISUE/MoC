@@ -1,0 +1,15 @@
+main: net.dmg2.rTPS.rTPS
+name: rTPS
+version: 1.0
+
+permissions:
+    rTPS.self:
+        description: Allows to use plugin.
+        default: op
+
+commands:
+   rtps:
+      description: Main command
+      permission: rTPS.self
+      usage: |
+          /rtps

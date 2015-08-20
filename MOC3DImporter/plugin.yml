@@ -1,0 +1,19 @@
+main: net.moc.MOC3DImporter.MOC3DImporter
+name: MOC3DImporter
+version: 3.0
+authors: [cwingrav, raidendex]
+description: Loads Wavefront OBJ files.
+
+permissions:
+    MOC3DImporter.admin:
+        description: Full permissions
+        default: op
+    MOC3DImporter.use:
+        description: Allows normal use.
+        default: op
+commands:
+   3di:
+      description: Load Wavefront OBJ file
+      permission: MOC3DImporter.use
+      usage: |
+          /3di [file name] (height) - Load Wavefront OBJ file with optional height

@@ -1,0 +1,12 @@
+1033:MOCChemistry.Lithium
+1029:MOCChemistry.Carbon
+1030:MOCChemistry.Helium
+1028:MOCChemistry.Boron
+1035:MOCKiosk.Kiosk
+1031:MOCChemistry.Hydrogen
+1032:MOCChemistry.Oxygen
+1027:MOCChemistry.Beryllium
+1026:MOCChemistry.Energy Harvester
+1025:MOCChemistry.Chemistry Table
+1034:MOCChemistry.Nitrogen
+1024:MOCChemistry.ChemistryTable

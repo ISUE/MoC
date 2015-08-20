@@ -1,0 +1,7 @@
+settings:
+  feedbackString: This block will be restored to its original state in TIMEs.
+  defaultSpawnBlocks:
+    '1': 80
+    '15': 15
+    '14': 5
+  defaultSpawnTime: 5

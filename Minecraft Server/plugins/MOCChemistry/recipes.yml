@@ -1,0 +1,18 @@
+Splits:
+  Split Water:
+    Input: id=326
+    Output-1: name=oxygen q=10
+    Output-2: name=hydrogen q=20
+    Output-3: id=325 q=1
+Combines:
+  Enchant Diamond Sword:
+    Input-1: id=276
+    Input-2: id=327
+    Output-1: id=276 ench=16-5,20-2,21-3
+    Output-2: id=325
+  Enchant Gold Sword:
+    Input-1: id=283
+    Input-2: id=327
+    Output-1: id=283 ench=16-5,20-2,21-3
+    Output-2: id=325
+    Output-3: name=oxygen

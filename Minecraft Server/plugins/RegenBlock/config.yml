@@ -1,0 +1,133 @@
+region:
+  a:
+    respawnTime: 60
+    left:
+      X: -1535
+      Y: 64
+      Z: 741
+    right:
+      X: -1643
+      Y: 80
+      Z: 669
+    world: world
+    feedbackID: 0
+    type: 0
+    sync: 0
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+    spawnBlocks:
+      '1': 80
+      '15': 15
+      '14': 5
+  q:
+    respawnTime: 60
+    left:
+      X: 248
+      Y: 66
+      Z: 169
+    right:
+      X: 155
+      Y: 111
+      Z: 265
+    world: world
+    feedbackID: 0
+    type: 0
+    sync: 1
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+  ert:
+    respawnTime: 30
+    left:
+      X: 202
+      Y: 74
+      Z: -1
+    right:
+      X: 194
+      Y: 71
+      Z: -13
+    world: world
+    feedbackID: 0
+    type: 0
+    sync: 0
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+  ad1:
+    respawnTime: 5
+    left:
+      X: 206
+      Y: 75
+      Z: 4
+    right:
+      X: 308
+      Y: 92
+      Z: -32
+    world: world
+    feedbackID: 0
+    type: 0
+    sync: 0
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+  q123:
+    respawnTime: 60
+    left:
+      X: 223
+      Y: 72
+      Z: -183
+    right:
+      X: 225
+      Y: 72
+      Z: -185
+    world: world
+    feedbackID: 0
+    type: 0
+    sync: 0
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+  et:
+    respawnTime: 60
+    left:
+      X: -62
+      Y: 70
+      Z: 95
+    right:
+      X: -63
+      Y: 70
+      Z: 96
+    world: leo
+    feedbackID: 0
+    type: 0
+    sync: 0
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+  big:
+    respawnTime: 6000
+    left:
+      X: -414
+      Y: 100
+      Z: -123
+    right:
+      X: -470
+      Y: 63
+      Z: -213
+    world: leo
+    feedbackID: 0
+    type: 0
+    sync: 0
+    alarmTime: 0
+    alarmRadius: 100
+    alarmMessage: This area is about to respawn. Please move away.
+blocksToRegen:
+  world: {}
+settings:
+  feedbackString: This block will be restored to its original state in TIMEs.
+  defaultSpawnTime: 5
+  defaultSpawnBlocks:
+    '1': 80
+    '15': 15
+    '14': 5

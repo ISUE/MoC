@@ -1,0 +1,9 @@
+settings:
+  plot:
+    x: 5
+    y: 5
+    z: 5
+    buffer: 3
+  numberOfPlots: 1
+  clearance: 1000
+  centerOnPlayer: true
